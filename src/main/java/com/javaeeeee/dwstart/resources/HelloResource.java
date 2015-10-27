@@ -52,7 +52,7 @@ public class HelloResource {
 
     /**
      * Method is used to greet using name plucked from the URL.
-     *
+     * comments are added
      * @param name name of a person to greet
      * @return greeting "Hello" + name from URL
      */
